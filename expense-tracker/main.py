@@ -28,6 +28,11 @@ class CSV :
       writer.writerow(new_entry)
     print("Entry added successfully")
 
+  @classmethod
+  def get_transactions(cls, start_date, end_date):
+    df = pd.read_csv(cls.CSV_FILE)
+    df["date"] = 
+
 def add_finance_data():
   CSV.initialize_csv()
   date = get_date("Enter the date of the transaction (dd-mm-yyyy) or press 'Enter' for today's date: ", allow_default=True)
