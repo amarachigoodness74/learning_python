@@ -1,3 +1,6 @@
-date,amount,category,description
-2025-01-25,125.87,Income,To buy data
-21-02-2025,54.0,Income,
+Date,Amount,Category,Description
+03-01-2025,200.0,Income,Salary
+05-01-2025,400.0,Income,Freelance work payment
+15-01-2025,22.0,Expense,Buy data
+02-02-2025,30.0,Expense,Buy card
+23-02-2025,10.0,Expense,
