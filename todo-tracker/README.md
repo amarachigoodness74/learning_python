@@ -52,8 +52,11 @@ Type 0
 
 ## Future Improvements
 
-- Add date feature.
-- Filter tasks by date range.
+🔹 Add due dates for tasks
+🔹 Filter tasks by date range.
+🔹 Sort tasks by due date for completed vs. pending
+🔹 Use SQLite instead of JSON for storage
+🔹 Add priority levels (High, Medium, Low)
 
 ## License
 
